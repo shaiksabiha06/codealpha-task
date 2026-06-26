@@ -26,18 +26,20 @@ Welcome to my repository featuring a collection of machine learning and deep lea
     └── heart.csv                  # Heart Disease Dataset
 ```
 🚀 Projects Overview
-```
+
 1. Credit Scoring Model (codealpha_credit-scoring)
+```
 Objective: Predict the creditworthiness of individuals based on historical financial and personal data using the German Credit Dataset.
 
 Key Features: Data preprocessing, handling categorical data via robust encoding (encoders.pkl), model training via train.py, and a user-friendly deployment script (app.py).
-
+```
 2. Handwritten Recognition (codealpha_handwritten)
+```
 Objective: Classify and recognize handwritten characters/digits using deep learning.
-
 Key Features: Implements Convolutional Neural Networks (CNN) via TensorFlow/Keras (model.keras). Includes an interactive application (app.py) where users can upload or draw characters to get real-time predictions.
-
+```
 3. Multiple Disease Prediction (codeaplha_diseaseprediction)
+```
 Objective: A centralized predictive health platform capable of diagnosing multiple conditions including Breast Cancer, Diabetes, and Heart Disease.
 
 Key Features: Trained on three distinct medical datasets to provide quick risk assessments through an integrated app.py dashboard.
