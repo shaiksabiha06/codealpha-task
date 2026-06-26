@@ -2,7 +2,7 @@
 
 Welcome to my repository featuring a collection of machine learning and deep learning projects developed during my time with **CodeAlpha**. This repository showcases end-to-end implementations ranging from classic predictive analytics to computer vision.
 
-### 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 ├── codealpha_credit-scoring/     # Project 1: Credit Scoring Model
