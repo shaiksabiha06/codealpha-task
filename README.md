@@ -25,7 +25,7 @@ Welcome to my repository featuring a collection of machine learning and deep lea
     ├── diabetes.csv               # Diabetes Dataset
     └── heart.csv                  # Heart Disease Dataset
 ```
-###🚀 Projects Overview
+### 🚀 Projects Overview
 
 1. Credit Scoring Model (codealpha_credit-scoring)
 ```
@@ -44,7 +44,7 @@ Objective: A centralized predictive health platform capable of diagnosing multip
 
 Key Features: Trained on three distinct medical datasets to provide quick risk assessments through an integrated app.py dashboard.
 ```
-###🛠️ Installation & Setup
+### 🛠️ Installation & Setup
 To run any of these projects locally, follow these steps:
 
 1. Clone the Repository
@@ -77,7 +77,7 @@ Most projects contain an app.py file. If they are built using Streamlit, run:
 ```
 streamlit run app.py
 ```
-###🧠 Technologies Used
+### 🧠 Technologies Used
 ```
 Languages: Python
 
@@ -87,7 +87,7 @@ Data Analysis: Pandas, NumPy
 
 Deployment/UI: Streamlit / Flask (as per your app.py implementation)
 ```
-###📝 License
+### 📝 License
 This project is licensed under the MIT License - see the individual project files for details.
 ```
 ### 💡 Tips before you commit:
